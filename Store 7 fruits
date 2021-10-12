@@ -1,0 +1,7 @@
+fruit = []
+
+for i in range(0,7):
+    ele = input()
+    fruit.append(ele)
+
+print(fruit)
